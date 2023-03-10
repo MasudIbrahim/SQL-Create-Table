@@ -1,4 +1,4 @@
-# Explanation of SQL queries used
+# Explanation of SQL queries
 
 ### 1. Creating student table
 
