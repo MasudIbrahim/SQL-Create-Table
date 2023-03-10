@@ -1,4 +1,4 @@
-# Creating a database with 3 tables
+# Creating a database with multiple tables
 
 ### Business task
 To create a database containing multiple tables which are linked and explain the process.
